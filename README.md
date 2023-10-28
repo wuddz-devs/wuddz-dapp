@@ -108,10 +108,10 @@ Authenticate To Bybit Testnet Exchange With Required API Credentials & Print 'BT
  - Reddit:    https://reddit.com/user/wuddz-devs
 
 ### Buy Me A Coffee!!
-![Alt Text]([image URL](https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/eth.png))
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/eth.png)
  - ERC20:    0xbF4d5309Bc633d95B6a8fe60E6AF490F11ed2Dd1
 
-![Alt Text]([image URL](https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/btc.png))
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/btc.png)
  - BTC:    bc1qa7ssx0e4l6lytqawrnceu6hf5990x4r2uwuead
 
 <img align = "left" width = 10% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/ltc.png"><br>
