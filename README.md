@@ -50,6 +50,14 @@ Then to launch Wuddz-Dapp Exchange_API, execute the following in the terminal:
 $ wudz-eapi
 ```
 
+### Updates
+ - When wuddz-dapp is launched or instantiated, a default folder "Dapp" is created in user's Desktop home directory.
+ - The config module is copied to said default folder to be imported whenever wuddz-dapp is launched or imported.
+ - Config module contains blockchain json rpc urls & other neccessary data required for the program to function.
+ - Config module must be edited where 'pasteapikeyhere' is to be replaced with valid api key for required usage.
+ - No need to load or save config module or paste private keys in config module.
+ - If unsure simply import the library and use help().
+
 ### Library
 Get Current Price Of Ethereum In USD.
 ```
