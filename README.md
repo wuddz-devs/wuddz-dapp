@@ -56,7 +56,7 @@ $ wudz-eapi
  - Config module contains blockchain json rpc urls & other neccessary data required for the program to function.
  - Config module must be edited where 'pasteapikeyhere' is to be replaced with valid api key for required usage.
  - No need to load or save config module or paste private keys in config module.
- - If unsure simply import the library and use help().
+ - If unsure simply import `import wuddz_dapp` library and use `help(wuddz_dapp)`.
 
 ### Library
 Get Current Price Of Ethereum In USD.
