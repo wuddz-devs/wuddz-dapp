@@ -108,19 +108,19 @@ Authenticate To Bybit Testnet Exchange With Required API Credentials & Print 'BT
  - Reddit:    https://reddit.com/user/wuddz-devs
 
 ### Buy Me A Coffee!!
-<img align = "left" width = 100% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/eth.png"><br>
+<img align = "left" width = 25% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/eth.png"><br>
  - ERC20:    0xbF4d5309Bc633d95B6a8fe60E6AF490F11ed2Dd1
 
-<img align = "left" width = 100% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/btc.png"><br>
+<img align = "left" width = 25% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/btc.png"><br>
  - BTC:      bc1qa7ssx0e4l6lytqawrnceu6hf5990x4r2uwuead
 
-<img align = "left" width = 100% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/ltc.png"><br>
+<img align = "left" width = 25% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/ltc.png"><br>
  - LTC:      LdbcFiQVUMTfc9eJdc5Gw2nZgyo6WjKCj7
 
-<img align = "left" width = 100% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/doge.png"><br>
+<img align = "left" width = 25% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/doge.png"><br>
  - DOGE:     DFwLwtcam7n2JreSpq1r2rtkA48Vos5Hgm
 
-<img align = "left" width = 100% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/tron.png"><br>
+<img align = "left" width = 25% src = "https://raw.githubusercontent.com/wuddz-devs/wuddz-dapp/main/assets/tron.png"><br>
  - TRON:     TY6e3dWGpqyn2wUgnA5q63c88PJzfDmQAD
 
 #### Enjoy my awesome creativity!!
